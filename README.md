@@ -136,7 +136,7 @@ Full-stack MERN portfolio with dedicated client and admin panels for dynamic con
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=Aman-Singh-kunwar&theme=github_dark&show_icons=true&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=Aman-Singh-kunwar&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=Aman-Singh-kunwar&theme=github-dark&hide_border=true" />
 </p>
 
