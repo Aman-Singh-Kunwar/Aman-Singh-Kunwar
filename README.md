@@ -156,9 +156,9 @@ Full-stack MERN portfolio with dedicated client and admin panels for dynamic con
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aman-Singh-Kunwar/Aman-Singh-Kunwar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+<div align="center"> 
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/> 
+</div>
 
 <p align="center">
 ⭐ Thanks for visiting my profile!
