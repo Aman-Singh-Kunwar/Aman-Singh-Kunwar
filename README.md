@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Singh Kunwar</h1>
 
 <h3 align="center">
-Full Stack Developer | React • Node.js • Express.js • MongoDB
+Full Stack Developer (MERN) | Ex-Intern @ Evon Technologies
 </h3>
 
 <p align="center">
@@ -32,6 +32,7 @@ Building scalable web applications and continuously exploring new technologies �
 
 ## 🚀 About Me
 
+- 💼 Web Development Intern @ **Evon Technologies** — live government & client platforms
 - 🌱 Learning **System Design & Docker**
 - 💻 Working with **React, Node.js, Express, MongoDB & Socket.IO**
 - 🏆 Passionate about Hackathons and Open Source
@@ -104,7 +105,18 @@ Building scalable web applications and continuously exploring new technologies �
 
 ## ⭐ Featured Projects
 
-### 📚 **[ADHYAYAN.AI](https://adhyan-ai.onrender.com)**
+### 🏫 **Curriculum Management System (CMS)**
+
+Institutional academic workflow platform with 4-tier scoped RBAC and multi-stage
+syllabus approval workflows. Live in production across 12+ Schools and 30+
+Departments at Dev Bhoomi Uttarakhand University.
+
+[![Live Site](https://img.shields.io/badge/Live_Site-00C853?style=flat-square&logo=googlechrome&logoColor=white)](https://cms.dbuu.ac.in/)
+*(Institutional codebase — private repository)*
+
+---
+
+### 📚 **[ADHYAN.AI](https://adhyan-ai.onrender.com)**
 
 AI-powered learning platform that transforms PDFs, videos, and web content into summaries, quizzes, flashcards, and mind maps.
 
